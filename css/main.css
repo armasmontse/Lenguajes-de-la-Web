@@ -1,0 +1,31 @@
+body{
+	background-color:#40E0D0
+}
+img{
+	border-color: blue;
+	border-width: 8px;
+	border-style: double;
+}
+li{
+	font-size:27px;
+	font-family:sans-serif;
+}
+p{
+	background: #007777;
+	font-size: 18px;
+}
+.rojo{
+	color:red;
+	background-color:#CEEAE7;
+	font-size:30px;
+
+}
+.sub{
+	text-decoration:underline
+}
+.grande{
+	font-size:50px;
+}
+.comic{
+	font-family:fantasy;
+}
